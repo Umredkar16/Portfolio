@@ -1,0 +1,184 @@
+.option {
+    display: flex;
+    margin: 1%;
+}
+
+body {
+    font-family: 'Fira Sans', sans-serif;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: lighten
+}
+
+.option div {
+    margin-right: 4vw;
+}
+
+#no {
+    display: flex;
+}
+
+.no {
+    margin-top: 0%;
+    margin-left: 56vw;
+    display: flex;
+}
+
+.resume {
+    color: blue;
+}
+
+.heading {
+    padding: 3vh;
+    padding-bottom: 0%;
+    padding-left: 4%;
+
+}
+
+.name {
+    font-size: 15vh;
+    padding-left: 1%;
+    display: flex;
+}
+
+.para {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18pt;
+    color: white;
+    padding-bottom: 0%;
+    margin-bottom: 15%;
+}
+
+.name u {
+    color: blue;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+}
+
+.para1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18pt;
+    color: white;
+    padding-bottom: 0%;
+    margin-bottom: 15%;
+    margin-left: 3vw;
+
+}
+
+.para2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18pt;
+    color: white;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+}
+
+.soft {
+    font-size: 12pt;
+    margin-left: 10%;
+}
+
+.lang {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18pt;
+    color: white;
+    padding-bottom: 0%;
+    margin-bottom: 12%;
+    margin-top: 7vh;
+}
+
+#lang {
+    font-size: 12pt;
+    margin-bottom: 1%;
+    margin-left: 10%;
+}
+
+.level1 {
+    display: flex;
+}
+
+#one {
+    width: 33.33%;
+}
+
+#two {
+    width: 33.33%;
+    margin-left: 7%;
+}
+
+#three {
+    width: 33.33%;
+    margin-left: 7%;
+}
+
+.cont {
+    display: flex;
+}
+
+.lev {
+    margin-left: 3vw;
+}
+
+.lev1 {
+    margin-left: 3.7vw;
+}
+
+.lev2 {
+    margin-left: 3.9vw;
+}
+
+.lev4 {
+    margin-left: 2.5vw;
+}
+
+.lev3 {
+    margin-left: 3vw;
+}
+
+.ps {
+    margin-right: 1%;
+}
+
+.langL1 {
+    margin-left: 12vw;
+}
+
+.exp {
+    font-size: 12pt;
+    margin-left: 20%;
+    margin-bottom: 0%;
+    margin-top: 8vh;
+}
+
+.exp1 {
+    font-size: 10pt;
+    margin-left: 20%;
+    margin-top: 0%;
+    margin-bottom: 19%;
+}
+
+.border {
+    border: solid 1px white;
+}
+
+.circle {
+    font-size: 10pt;
+}
+
+#fle {
+    display: flex;
+}
+
+.last {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18pt;
+    color: white;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+    margin-top: 15%;
+}
+
+#hob {
+    margin-top: 15%;
+}
