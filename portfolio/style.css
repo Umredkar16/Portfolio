@@ -1,0 +1,90 @@
+.option {
+    display: flex;
+    margin: 1%;
+    margin-right: 0%;
+}
+
+body {
+    font-family: 'Fira Sans', sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    
+}
+
+.option div {
+    margin-right: 4vw;
+}
+
+.heading {
+    padding: 20vh;
+    padding-bottom: 0%;
+    padding-left: 10%;
+}
+
+.name {
+    font-size: 10vh;
+    padding-left: 3%
+}
+
+.name p {
+    margin-bottom: 0%;
+}
+
+.para {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30pt;
+}
+
+.p {
+    font-family: 'Fira Sans', sans-sferi;
+        margin-top: 0%;
+}
+
+.work p {
+    margin-top: 0%;
+    font-size: 14pt;
+    padding-left: 3%
+}
+
+#color {
+    color: blue;
+}
+
+#no {
+    display: flex;
+}
+
+.no {
+    margin-top: 0%;
+    margin-left: 58vw;
+    margin-right: 0%;
+    display: flex;
+}
+
+.social {
+    width: 15vw;
+    margin-top: 5%;
+}
+
+#social {
+    margin-top: 10vw;
+}
+
+.btn {
+    display: flex;
+    padding-left: 3%
+}
+
+#btn {
+    margin-right: 2vw;
+    border: solid 1px white;
+    border-radius: 13px;
+    width: 9vw;
+}
+
+#btn2 {
+    border: solid 1px white;
+    border-radius: 13px;
+    width: 9vw;
+}
